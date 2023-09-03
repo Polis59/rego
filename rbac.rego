@@ -1,2 +1,3 @@
-package app.rbac
+    package envoy.authz
+
     default allow = true
